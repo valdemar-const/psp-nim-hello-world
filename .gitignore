@@ -1,0 +1,9 @@
+# Build output
+build/
+out/
+
+# Nim generated C sources
+nimcache/
+
+# xmake local config
+.xmake/
